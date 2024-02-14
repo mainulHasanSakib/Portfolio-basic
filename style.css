@@ -7,6 +7,10 @@ body{
     max-width:1114px ;
     margin: 0 auto;
 }
+.text-primary{
+    color: #FD6E0A;
+
+}
 
 
  
@@ -14,6 +18,10 @@ nav {
     display: flex;
     align-items: center;
     justify-content: space-between;
+}
+.title-text{
+    font-weight: 800;
+    font-size: 50px;
 }
 nav ul{
     display: flex;
